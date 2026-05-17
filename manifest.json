@@ -1,0 +1,27 @@
+{
+  "name": "Suite IA Pro",
+  "short_name": "Suite IA",
+  "description": "5 herramientas de IA para generar ingresos: invitaciones, tutor, CV, quiz y flyers",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050510",
+  "theme_color": "#7C3AED",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities", "education"],
+  "lang": "es",
+  "dir": "ltr"
+}

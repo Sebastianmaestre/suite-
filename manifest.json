@@ -3,25 +3,47 @@
   "short_name": "Suite IA",
   "description": "5 herramientas de IA para generar ingresos: invitaciones, tutor, CV, quiz y flyers",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#050510",
   "theme_color": "#7C3AED",
-  "orientation": "portrait",
+  "orientation": "portrait-primary",
+  "lang": "es",
+  "dir": "ltr",
+  "categories": ["productivity", "utilities", "education"],
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "https://placehold.co/192x192/7C3AED/ffffff?text=IA",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
-      "src": "icon-512.png",
+      "src": "https://placehold.co/192x192/7C3AED/ffffff?text=IA",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://placehold.co/512x512/7C3AED/ffffff?text=IA",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "https://placehold.co/512x512/7C3AED/ffffff?text=IA",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ],
-  "categories": ["productivity", "utilities", "education"],
-  "lang": "es",
-  "dir": "ltr"
+  "screenshots": [
+    {
+      "src": "https://placehold.co/390x844/050510/7C3AED?text=Suite+IA+Pro",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Suite IA Pro"
+    }
+  ]
 }
